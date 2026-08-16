@@ -1,0 +1,13 @@
+print (my print)
+ls
+ls
+    cd ..
+    ls
+    cd Download
+     ls
+     cd Documents/
+     mkdir -p
+     cd '/home/rajesh/Documents'
+     ls
+     mkdir /home/rajesh/Documents/newdemo
+     ls
